@@ -1,0 +1,4 @@
+DROP TABLE Answers;
+DROP TABLE Questions;
+DROP TABLE Polls;
+DROP TABLE UsersAnsw;
